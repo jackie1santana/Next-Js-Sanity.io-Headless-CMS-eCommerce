@@ -4,4 +4,4 @@
 - Typescript set up
 - Sass set up
 - using Next.js gzip compression
-
+- Using Redis for NoSQL Database
