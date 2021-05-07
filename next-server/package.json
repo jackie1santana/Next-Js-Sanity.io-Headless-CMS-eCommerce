@@ -1,0 +1,43 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "next-server": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "pretty": "npx prettier --write ."
+  },
+  "keywords": [
+    "next.js",
+    "async",
+    "error handling",
+    "NODE_ENV",
+    "env",
+    "typescript"
+  ],
+  "dependencies": {
+    "@types/aws-lambda": "^8.10.76",
+    "dotenv": "^9.0.0",
+    "next": "10.2.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "sass": "^1.32.11"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.4",
+    "autoprefixer": "^10.2.5",
+    "husky": "^6.0.0",
+    "nodemon": "^2.0.7",
+    "postcss": "^8.2.13",
+    "prettier": "2.2.1",
+    "pretty-quick": "^3.1.0",
+    "tailwindcss": "^2.1.2",
+    "typescript": "^4.2.4"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  }
+}
