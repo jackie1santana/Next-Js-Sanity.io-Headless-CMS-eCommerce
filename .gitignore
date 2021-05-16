@@ -12,6 +12,8 @@
 /next-server/npm-debug.log*
 /next-server/yarn-debug.log*
 /next-server/yarn-error.log*
+/next-server/.serverless
+/next-server/.serverless_nextjs
 
 # Sanity.io Api
 

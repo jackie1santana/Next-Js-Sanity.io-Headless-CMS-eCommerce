@@ -13,3 +13,5 @@ Created a seprate server for redis because when ran with next js, it gives me er
 (I need to fix pre hooks prettier)
 
 - adding strapi
+
+- adding jest
