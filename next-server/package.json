@@ -17,8 +17,10 @@
     "typescript"
   ],
   "dependencies": {
+    "@sls-next/serverless-component": "^1.19.0",
     "@types/aws-lambda": "^8.10.76",
     "dotenv": "^9.0.0",
+    "i": "^0.3.6",
     "next": "10.2.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",

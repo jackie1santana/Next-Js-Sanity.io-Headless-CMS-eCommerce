@@ -11,3 +11,5 @@
 Created a seprate server for redis because when ran with next js, it gives me errors, because it thinks im trying to load via the browser.
 
 (I need to fix pre hooks prettier)
+
+- adding strapi

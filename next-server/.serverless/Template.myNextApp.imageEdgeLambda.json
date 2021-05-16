@@ -1,0 +1,17 @@
+{
+  "name": "9y2v7ac-4fxx7wo",
+  "hash": "OzEY7sbjb6vmUdmzQvDdqSPhL6TZp/UmBx958ZPKF/I=",
+  "description": "Image Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/home/max1solenov/Desktop/docker_apps/Next-Js-Sanity.io-Headless-CMS-eCommerce/next-server/.serverless_nextjs/image-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::049539523333:role/9y2v7ac-peshzb"
+  },
+  "arn": "arn:aws:lambda:us-east-1:049539523333:function:9y2v7ac-4fxx7wo",
+  "region": "us-east-1"
+}
