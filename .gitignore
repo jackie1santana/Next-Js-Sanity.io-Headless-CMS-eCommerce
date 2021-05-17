@@ -30,3 +30,5 @@
 /redis/yarn_erro.log
 /redis/.env
 /redis/.env.build
+
+/node_modules
