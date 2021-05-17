@@ -20,4 +20,4 @@ jobs:
             - ./node_modules
       - run:
           name: Run tests
-          command: cd /next-server && npm run test
+          command: npm run test
